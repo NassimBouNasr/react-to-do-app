@@ -2,4 +2,3 @@
 
 This is a simple react to do app with check,delete, and filter features and it saves the to do list to the local storage
 
-[Project link](https://react-to-do-app-nb.netlify.app/)
